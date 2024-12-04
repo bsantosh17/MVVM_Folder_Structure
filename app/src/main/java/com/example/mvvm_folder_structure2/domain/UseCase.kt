@@ -5,8 +5,13 @@ class UseCase {
     companion object{
         var loginUrl = "https://api.mturbine.com/api/auth/"
 
+        /**
+         * Credentials:-
+            "email":"superadmin@mafil.com",
+            "password":"turant@123"*/
 
-        var getList = "https://jsonplaceholder.typicode.com/photos"
+
+        var getListUrl = "https://jsonplaceholder.typicode.com/"
 
 
     }
